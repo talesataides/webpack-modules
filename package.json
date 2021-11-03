@@ -1,0 +1,25 @@
+{
+  "name": "webpack-modules",
+  "version": "1.0.0",
+  "description": "",
+  "mode": "production",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "npx webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talesataides/webpack-modules.git"
+  },
+  "author": "Tales R. Ataides",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talesataides/webpack-modules/issues"
+  },
+  "homepage": "https://github.com/talesataides/webpack-modules#readme",
+  "devDependencies": {
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
