@@ -1,4 +1,4 @@
-module.exports = {
-  mode: 'development',
-  entry: './sum/index.js'
-}
+export default {
+  mode: 'production',
+  entry: './index.js',
+};
